@@ -9,9 +9,10 @@ This project is focused on implementing Named Entity Recognition (NER) using Spa
 Ensure you have the following Python libraries installed:
 
 spaCy
-pandas
-matplotlib
-scikit-learn
+
+Flask
+
+re
 
 
 # Acknowledgments
